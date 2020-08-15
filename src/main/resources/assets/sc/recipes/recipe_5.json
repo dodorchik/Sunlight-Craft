@@ -1,0 +1,42 @@
+{
+  "group": "sc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sc:sunlightlump"
+    },
+    "1": {
+      "item": "sc:sunlightlump"
+    },
+    "2": {
+      "item": "sc:sunlightlump"
+    },
+    "3": {
+      "item": "sc:sunlightlump"
+    },
+    "4": {
+      "item": "sc:sunlightlump"
+    },
+    "5": {
+      "item": "sc:sunlightlump"
+    },
+    "6": {
+      "item": "sc:sunlightlump"
+    },
+    "7": {
+      "item": "sc:sunlightlump"
+    },
+    "8": {
+      "item": "sc:sunlightlump"
+    }
+  },
+  "result": {
+    "item": "sc:minisunlightstar",
+    "count": 1
+  }
+}

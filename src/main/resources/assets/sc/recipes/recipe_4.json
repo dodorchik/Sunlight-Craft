@@ -1,0 +1,32 @@
+{
+  "group": "sc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "sc:sunlightcrystal"
+    },
+    "1": {
+      "item": "sc:sunlightcrystal"
+    },
+    "2": {
+      "item": "sc:sunlightcrystal"
+    },
+    "3": {
+      "item": "sc:sunlightcrystal"
+    },
+    "4": {
+      "item": "sc:sunlightcrystal"
+    },
+    "5": {
+      "item": "sc:sunlightcrystal"
+    }
+  },
+  "result": {
+    "item": "sc:sunlightlump",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sc:blocks/evilight_ore",
+    "up": "sc:blocks/evilight_ore",
+    "north": "sc:blocks/evilight_ore",
+    "east": "sc:blocks/evilight_ore",
+    "south": "sc:blocks/evilight_ore",
+    "west": "sc:blocks/evilight_ore",
+    "particle": "sc:blocks/evilight_ore"
+  }
+}

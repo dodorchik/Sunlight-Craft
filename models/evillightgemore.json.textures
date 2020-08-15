@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sunlight_evil_gem_ore_remake"
+      },
+      "name": "default"
+    }
+  }
+}

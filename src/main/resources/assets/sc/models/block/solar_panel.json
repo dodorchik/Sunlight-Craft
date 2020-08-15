@@ -1,0 +1,9 @@
+{
+  "parent": "sc:custom/solarpannel",
+  "textures": {
+    "all": "sc:blocks/solarpannel",
+    "particle": "sc:blocks/solarpannel",
+    "": "sc:blocks/solarpannel",
+    "1": "sc:blocks/cobblestone"
+  }
+}

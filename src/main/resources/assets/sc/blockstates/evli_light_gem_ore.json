@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "sc:evli_light_gem_ore"
+    },
+    "facing=north": {
+      "model": "sc:evli_light_gem_ore"
+    },
+    "facing=east": {
+      "model": "sc:evli_light_gem_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sc:evli_light_gem_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sc:evli_light_gem_ore",
+      "y": 270
+    }
+  }
+}

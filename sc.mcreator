@@ -1,0 +1,447 @@
+{
+  "id_map": {
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Sunlightshard",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightshard"
+    },
+    {
+      "name": "Sunlightngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightngot"
+    },
+    {
+      "name": "Sunlightpiese",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightpiese"
+    },
+    {
+      "name": "Sunlightcrystal",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightcrystal"
+    },
+    {
+      "name": "Sunlightlump",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightlump"
+    },
+    {
+      "name": "Minisunlightstar",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minisunlightstar"
+    },
+    {
+      "name": "Sunlightstone",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightstone"
+    },
+    {
+      "name": "Recipe1",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_1"
+    },
+    {
+      "name": "Recipe2",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_2"
+    },
+    {
+      "name": "Recipe3",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_3"
+    },
+    {
+      "name": "Recipe4",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_4"
+    },
+    {
+      "name": "Recipe5",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_5"
+    },
+    {
+      "name": "Recipe6",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_6"
+    },
+    {
+      "name": "SunlightDimension",
+      "type": "dimension",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      },
+      "registry_name": "sunlight_dimension"
+    },
+    {
+      "name": "Recipe7",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_7"
+    },
+    {
+      "name": "Sunlightnugget",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightnugget"
+    },
+    {
+      "name": "Sunlightore",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlightore"
+    },
+    {
+      "name": "SunlightEvilGem",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlight_evil_gem"
+    },
+    {
+      "name": "Recipe9",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_9"
+    },
+    {
+      "name": "SunlightEvilPortal",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlight_evil_portal"
+    },
+    {
+      "name": "EvilSunlightForest",
+      "type": "biome",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_sunlight_forest"
+    },
+    {
+      "name": "SolarGUI",
+      "type": "gui",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "solar_gui"
+    },
+    {
+      "name": "SolarPanel",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_panel"
+    },
+    {
+      "name": "EvliLightGemOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evli_light_gem_ore"
+    },
+    {
+      "name": "Evilightnugget",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evilightnugget"
+    },
+    {
+      "name": "SunlightEvilGemItemInInventoryTick",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlight_evil_gem_item_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Evil",
+      "type": "potion",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil"
+    },
+    {
+      "name": "EvilPotionExpires",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_potion_expires",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DealdamageCommandExecuted",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dealdamage_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "cmdparams",
+            "type": "map"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dealdamage",
+      "type": "command",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dealdamage"
+    },
+    {
+      "name": "EvilOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evil_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "amplifier",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Recipe10",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_10"
+    },
+    {
+      "name": "EvillightStone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evillight_stone"
+    },
+    {
+      "name": "EvillightOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evillight_ore"
+    },
+    {
+      "name": "SunlightCraftTab",
+      "type": "tab",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunlight_craft_tab"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "item.sunlight_evil_gem.name": "Sunlight evil gem",
+      "tile.evillight_stone.name": "Evillight Stone",
+      "item.sunlightcrystal.name": "Солнечный кристал",
+      "potion.effect.evil": "Зло",
+      "item.sunlightngot.name": "Солнечный слиток",
+      "item.sunlightpickaxe.name": "Солнечная кирка",
+      "lingering_potion.effect.evil": "Lingering Evil",
+      "item.sunlightlump.name": "Солнечный кусок",
+      "tipped_arrow.effect.evil": "Arrow of Evil",
+      "item.sunlightshard.name": "Солнечный осколок",
+      "tile.evillight_ore.name": "Evillight Ore",
+      "effect.evil": "Зло",
+      "tile.evli_light_gem_ore.name": "Evli Light Gem Ore",
+      "item.minisunlightstar.name": "Маленькая солнечная звезда",
+      "tile.solar_panel.name": "Солнечная панель",
+      "item.sunlightpiese.name": "Солнечный кусочек",
+      "tile.sunlightore.name": "Солнечная руда",
+      "tile.sunlightstone.name": "Солнечный камень",
+      "item.evilightnugget.name": "Evilight nugget",
+      "splash_potion.effect.evil": "Зелье зла",
+      "tile.sunlightgemore.name": "Руда солнечного камня",
+      "item.sunlightaxe.name": "Солнечный топор",
+      "item.sunlightsword.name": "Солнечный меч",
+      "itemGroup.tabsunlight_craft_tab": "Sunlight Craft",
+      "item.sunlight_evil_portal.name": "Sunlight evil portal",
+      "item.sunlight_dimension.name": "Огниво Солнечного портала",
+      "item.sunlightnugget.name": "Солнечный самородок"
+    },
+    "en_us": {
+      "item.sunlight_evil_gem.name": "Evilight gem",
+      "item.sunlightcrystal.name": "Sunlightcrystal",
+      "tile.evillight_stone.name": "Evillight Stone",
+      "item.sunlightngot.name": "Sunlightngot",
+      "potion.effect.evil": "Evil",
+      "item.sunlightpickaxe.name": "Sunlight pickaxe",
+      "lingering_potion.effect.evil": "Lingering Evil",
+      "item.sunlightlump.name": "Sunlightlump",
+      "tipped_arrow.effect.evil": "Arrow of Evil",
+      "item.sunlightshard.name": "Sunlight shard",
+      "tile.evillight_ore.name": "Evillight Ore",
+      "effect.evil": "Evil",
+      "tile.evli_light_gem_ore.name": "Evli Light Gem Ore",
+      "item.minisunlightstar.name": "Minisunlightstar",
+      "tile.solar_panel.name": "Solar Panel",
+      "item.sunlightpiese.name": "Sunlightpiese",
+      "tile.sunlightore.name": "Sunlightore",
+      "tile.sunlightstone.name": "Sunlightstone",
+      "item.evilightnugget.name": "Evilight nugget",
+      "splash_potion.effect.evil": "Splash Evil",
+      "tile.sunlightgemore.name": "Sunlightgemore",
+      "item.sunlightsword.name": "Sunlight sword",
+      "item.sunlightaxe.name": "Sunlight axe",
+      "itemGroup.tabsunlight_craft_tab": "Sunlight Craft",
+      "item.sunlight_evil_portal.name": "Sunlight evil portal",
+      "item.sunlight_dimension.name": "Sunlight Dimension Portal Igniter",
+      "item.sunlightnugget.name": "Sunlight nugget"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "sc",
+    "modName": "Sunlight Craft",
+    "version": "Alpha 1",
+    "author": "Dodorchik",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "papirus",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Kapert \u0026 Dodorchik",
+    "modElementsPackage": "sunlight.craft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

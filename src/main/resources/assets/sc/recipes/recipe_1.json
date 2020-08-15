@@ -1,0 +1,42 @@
+{
+  "group": "sc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sc:sunlightshard"
+    },
+    "1": {
+      "item": "sc:sunlightshard"
+    },
+    "2": {
+      "item": "sc:sunlightshard"
+    },
+    "3": {
+      "item": "sc:sunlightshard"
+    },
+    "4": {
+      "item": "sc:sunlightshard"
+    },
+    "5": {
+      "item": "sc:sunlightshard"
+    },
+    "6": {
+      "item": "sc:sunlightshard"
+    },
+    "7": {
+      "item": "sc:sunlightshard"
+    },
+    "8": {
+      "item": "sc:sunlightshard"
+    }
+  },
+  "result": {
+    "item": "sc:sunlightngot",
+    "count": 1
+  }
+}

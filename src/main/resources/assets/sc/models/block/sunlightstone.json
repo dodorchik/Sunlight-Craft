@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sc:blocks/sunlight_stone",
+    "up": "sc:blocks/sunlight_stone",
+    "north": "sc:blocks/sunlight_stone",
+    "east": "sc:blocks/sunlight_stone",
+    "south": "sc:blocks/sunlight_stone",
+    "west": "sc:blocks/sunlight_stone",
+    "particle": "sc:blocks/sunlight_stone"
+  }
+}

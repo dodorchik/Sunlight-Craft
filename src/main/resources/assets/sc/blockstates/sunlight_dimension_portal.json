@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "sc:sunlight_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "sc:sunlight_dimension_portal_ns"
+    },
+    "inventory": {
+      "model": "sc:sunlight_dimension_portal_ns"
+    }
+  }
+}

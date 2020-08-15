@@ -1,0 +1,51 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Interfase in development",
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "name": "Interfase in development",
+          "x": 264,
+          "y": 212
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Evilightnugget"
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 300,
+          "y": 140
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 516,
+          "y": 140
+        }
+      }
+    ]
+  }
+}

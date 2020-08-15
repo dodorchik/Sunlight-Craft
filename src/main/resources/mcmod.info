@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "sc",
+    "name": "Sunlight Craft",
+    "description": "",
+    "version": "Alpha 1",
+    "credits": "Kapert & Dodorchik",
+    "logoFile": "assets/sc/textures/papirus.png",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "Dodorchik"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

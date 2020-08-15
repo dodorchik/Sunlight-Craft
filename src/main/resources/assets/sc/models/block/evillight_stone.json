@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sc:blocks/evilight_down",
+    "up": "sc:blocks/evilight_up",
+    "north": "sc:blocks/evilight_stone",
+    "east": "sc:blocks/evilight_stone",
+    "south": "sc:blocks/evilight_stone",
+    "west": "sc:blocks/evilight_stone",
+    "particle": "sc:blocks/evilight_down"
+  }
+}

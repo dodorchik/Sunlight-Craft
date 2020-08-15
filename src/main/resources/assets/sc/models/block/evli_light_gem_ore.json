@@ -1,0 +1,8 @@
+{
+  "parent": "sc:custom/evillightgemore",
+  "textures": {
+    "all": "sc:blocks/sunlight_evil_gem_ore_remake",
+    "particle": "sc:blocks/sunlight_evil_gem_ore_remake",
+    "0": "sc:blocks/sunlight_evil_gem_ore_remake"
+  }
+}

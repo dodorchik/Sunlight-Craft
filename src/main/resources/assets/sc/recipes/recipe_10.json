@@ -1,0 +1,42 @@
+{
+  "group": "sc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ore"
+    },
+    "1": {
+      "item": "sc:evilightnugget"
+    },
+    "2": {
+      "item": "minecraft:gold_ore"
+    },
+    "3": {
+      "item": "sc:evilightnugget"
+    },
+    "4": {
+      "item": "sc:sunlight_evil_gem"
+    },
+    "5": {
+      "item": "sc:evilightnugget"
+    },
+    "6": {
+      "item": "minecraft:gold_ore"
+    },
+    "7": {
+      "item": "sc:evilightnugget"
+    },
+    "8": {
+      "item": "minecraft:gold_ore"
+    }
+  },
+  "result": {
+    "item": "sc:sunlight_evil_portal",
+    "count": 1
+  }
+}

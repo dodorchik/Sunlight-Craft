@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "": "solarpannel",
+        "1": "cobblestone"
+      },
+      "name": "default"
+    }
+  }
+}
